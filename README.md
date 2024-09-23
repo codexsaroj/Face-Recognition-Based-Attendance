@@ -26,8 +26,8 @@ This project is a Python application that utilizes face recognition technology t
    - pip install -r requirements.txt
      
 3. Set up the initial dataset:
-   Create a Photos_Data directory
-   Place student images in the Photos_Data/ directory
+   - Create a Photos_Data directory.
+   - Place student images in the Photos_Data/ directory
 
 ## Usage
     Run the application:
