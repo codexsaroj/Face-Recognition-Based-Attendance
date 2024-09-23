@@ -9,7 +9,7 @@ This project is a Python application that utilizes face recognition technology t
 - **Real-time Face Recognition**: Utilizes the `face_recognition` library for accurate facial detection and recognition.
 - **Attendance Management**: Records attendance automatically based on recognized faces.
 - **CSV Export**: Exports attendance records to a CSV file for easy access and management.
-- **User-friendly Interface**: Simple command-line interface for ease of use.
+- **User-friendly Interface**: An easy to use UI made using Tkinter
 
 ## Requirements
 
